@@ -2,9 +2,8 @@
 - 
 - 💻I am Jr Front-end Developer
 
-💾 ExperiÊncia em linguagens: Javascript, PHP, e Python
+- 💾 ExperiÊncia em linguagens: Javascript, PHP, e Python
 
--
 
 
 <!---
