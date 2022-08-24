@@ -6,7 +6,7 @@
 
 - 🧰 Ferramentas que Utilizo: Blender, Gimp, Visual Studio Code, e Mysql
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDesenvolvedor&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDesenvolvedor&show_icons=true&theme=onedark)
 
 <!---
 VictorDesenvolvedor/VictorDesenvolvedor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
