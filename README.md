@@ -2,7 +2,9 @@
 
 - 💻Desenvolvedor Front-end
 
-- 💾 ExperiÊncia em linguagens: Javascript, PHP, e Lua
+- 💾 Experiência em linguagens: Javascript, PHP, e Lua
+
+-🧰 Ferramentas que Utilizo: Blender, Gimp, Visual Studio Code, e Mysql
 
 
 
