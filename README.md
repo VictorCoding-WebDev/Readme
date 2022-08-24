@@ -4,9 +4,9 @@
 
 - 💾 Experiência em linguagens: Javascript, PHP, e Lua
 
--🧰 Ferramentas que Utilizo: Blender, Gimp, Visual Studio Code, e Mysql
+- 🧰 Ferramentas que Utilizo: Blender, Gimp, Visual Studio Code, e Mysql
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDesenvolvedor)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
