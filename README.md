@@ -1,6 +1,6 @@
-🌙  Olá, você está no perfil oficial do @VictorDesenvolvedor
-💻Desenvolvedor Front-end
-💾 ExperiÊncia em linguagens: Javascript, PHP, e Lua
+-🌙  Olá, você está no perfil oficial do @VictorDesenvolvedor
+-💻Desenvolvedor Front-end
+-💾 ExperiÊncia em linguagens: Javascript, PHP, e Lua
 
 
 
