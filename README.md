@@ -1,8 +1,7 @@
-- 🌙  Hi, I’m @VictorDesenvolvedor
-- 
-- 💻I am Jr Front-end Developer
+🌙  Olá, você está no perfil oficial do @VictorDesenvolvedor
+💻Desenvolvedor Front-end
+💾 ExperiÊncia em linguagens: Javascript, PHP, e Lua
 
-- 💾 ExperiÊncia em linguagens: Javascript, PHP, e Python
 
 
 
